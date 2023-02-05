@@ -14,9 +14,9 @@
      ```bash
      mkdir my-plugin
      cd my-plugin
-     npx degit https://github.com/aarongarciah/figma-plugin-typescript-boilerplate
+     npx degit https://github.com/daihuaye/figma-plugin-typescript-boilerplate
      ```
-   - [Download the repo](https://github.com/aarongarciah/figma-plugin-typescript-boilerplate/archive/master.zip) and extract it into your empty plugin folder.
+   - [Download the repo](https://github.com/daihuaye/figma-plugin-typescript-boilerplate/archive/master.zip) and extract it into your empty plugin folder.
 
 2. Install dependencies
 
