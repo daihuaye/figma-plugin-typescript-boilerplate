@@ -43,6 +43,6 @@ module.exports = (env, argv) => ({
       inlineSource: '.(js)$',
       chunks: ['ui'],
     }),
-    new HtmlInlineScriptPlugin([/ui.js/]),
+    new HtmlInlineScriptPlugin({ scriptMatchPattern: [/ui.js/] }),
   ],
 });
